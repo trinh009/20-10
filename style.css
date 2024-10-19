@@ -1,0 +1,21 @@
+body{
+    background-color:#ffe4e1 ;
+}
+.icons{
+    text-align: center;
+}
+.fa-solid.fa-heart.fa-10x{
+    color: hotpink;
+    position: relative;
+    left: 650px;
+    top: 300px;
+    outline-color: black;
+}
+p{
+    font-family: "Black Han Sans";
+    font-size: 30px;
+    font-style: italic;
+    position: relative;
+    left: 670px;
+    top: 300px;
+}
